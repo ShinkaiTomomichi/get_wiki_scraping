@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# データの保存のスナップショットが残るのは微妙なので削除
+/dataset*
+
+# 空のディレクトリを残すため
+!.gitkeep
+
